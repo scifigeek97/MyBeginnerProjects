@@ -5,15 +5,14 @@ html,body {
     height: 100%;
 }
 body {
-    background-image: url(bg-1.svg);
+    background-image: url(bg.svg);
     display: grid;
     place-items: center;
     padding: 0 30px;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #0e2b4b;
-    animation: rotate 7s infinite alternate linear;
+    
 }
 .login-card {
     position: relative;
