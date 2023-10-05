@@ -17,17 +17,18 @@ body {
 .login-card {
     position: relative;
     z-index: 3;
-   padding: 55px 45px 35px 30px;
+   padding: 55px 45px 45px 40px;
  /* TOP - RIGHT  BOTTOM  LEFT*/
-    width: 100%;
+    width: 100% + 50px;
     margin:20px;
     border-radius: 1.25rem;
-    background: #fff;
+    background: #ffffff2a;
+    
     text-align: center;
 
 }
 .login-card >h2 {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 600;
     margin: 0px 0px 25px;
 }
